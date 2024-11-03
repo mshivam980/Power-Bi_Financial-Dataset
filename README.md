@@ -1,5 +1,7 @@
 # Power-Bi_Financial-Dataset-Dashboard
 
+Dashboard Link:
+
 ## Problem Statement
 
 A company seeks to enhance its financial health by closely monitoring key financial metrics such as sales, receivables, payables, and inventory. The goal is to gain actionable insights into cash flow efficiency, optimize the timing of collections and payments, and effectively manage inventory. This Power BI dashboard aims to provide a holistic view of business performance by breaking down these elements into measurable insights.
