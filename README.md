@@ -1,6 +1,6 @@
 # Power-Bi_Financial-Dataset-Dashboard
 
-Dashboard Link: https://github.com/mshivam980/Power-Bi_Financial-Dataset/blob/main/Financial%20Dataset.pbix
+Dashboard Link: https://github.com/mshivam980/Power-Bi_Financial-Dataset/blob/main/Financial%20Dataset%20Dashboard.pbix
 
 ## Problem Statement
 
