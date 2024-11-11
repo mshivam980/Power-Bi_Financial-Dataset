@@ -2,7 +2,7 @@
 
 Dashboard Link: https://github.com/mshivam980/Power-Bi_Financial-Dataset/blob/main/Financial%20Dataset%20Dashboard.pbix
 
-## Problem Statement
+## Problem Statement - 62,211 Rows Dataset
 
 A company seeks to enhance its financial health by closely monitoring key financial metrics such as sales, receivables, payables, and inventory. The goal is to gain actionable insights into cash flow efficiency, optimize the timing of collections and payments, and effectively manage inventory. This Power BI dashboard aims to provide a holistic view of business performance by breaking down these elements into measurable insights.
 
@@ -164,7 +164,7 @@ Snap of new calculated column ,
 
 ![image](https://github.com/user-attachments/assets/61352638-4f69-4fb8-8435-2a536f2430ad)
 
-# Insights - 62,211 Rows Dataset
+# Insights
 
 A three page report was created on Power BI Desktop & it was then published to Power BI Service.
 
